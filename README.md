@@ -54,15 +54,9 @@ I am a Database Administrator specializing in relational and NoSQL database syst
 
 - Microsoft Certified: Azure Database Administrator Associate (DP-300)  
 - MongoDB Certified DBA  
-- ITIL Foundation
 
 ---
 
-## How to Connect
-
-- LinkedIn: [Your LinkedIn Profile URL]  
-- Email: [Your Professional Email]  
-- GitHub: [Your GitHub Profile URL]
 
 ---
 
