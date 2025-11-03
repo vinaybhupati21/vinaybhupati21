@@ -1,19 +1,16 @@
 ## Hi there 👋
 
-<!--
-**vinaybhupati21/vinaybhupati21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on optimizing database performance and migrating legacy systems to Azure SQL.
+- 🌱 I’m currently learning advanced MongoDB aggregation pipelines and data science techniques using Python.
+- 👯 I’m looking to collaborate on data analytics projects that leverage both SQL Server and NoSQL databases for real-time insights.
+- 🤔 I’m looking for help with implementing automated database monitoring solutions using open-source tools.
+- 💬 Ask me about SQL Server administration, MongoDB schema design, performance tuning, and database migration to cloud platforms.
+- 📫 How to reach me: [Your Professional Email] | [Your LinkedIn Profile]
+- 😄 Pronouns: [Your Pronouns, e.g., he/him, she/her, they/them]
+- ⚡ Fun fact: I can write optimized T-SQL scripts faster than I brew my morning coffee!
+
 
 # Database Administrator Portfolio
 
