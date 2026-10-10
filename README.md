@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on data analytics projects that leverage both SQL Server and NoSQL databases for real-time insights.
 - 🤔 I’m looking for help with implementing automated database monitoring solutions using open-source tools.
 - 💬 Ask me about SQL Server administration, MongoDB schema design, performance tuning, and database migration to cloud platforms.
-- 📫 How to reach me: [Your Professional Email] | [Your LinkedIn Profile]
-- 😄 Pronouns: [Your Pronouns, e.g., he/him, she/her, they/them]
+- 📫 LinkedIn Profile : VINAYBHUPATI
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I can write optimized T-SQL scripts faster than I brew my morning coffee!
 
 
