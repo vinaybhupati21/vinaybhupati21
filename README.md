@@ -43,14 +43,7 @@ I am a Database Administrator specializing in relational and NoSQL database syst
 - **SQL Server Performance Dashboard** – Custom performance monitoring dashboard using T-SQL and Power BI.  
 - **MongoDB Schema Analyzer** – Python-based tool to visualize and analyze MongoDB schemas.  
 - **Azure SQL Backup Automation** – Automated backup and retention policy configuration using PowerShell.  
-- **Database Migration Utility** – Assisted in migrating on-prem SQL Server databases to Azure Managed instances.
-
----
-
-## Certifications
-
-- Microsoft Certified: Azure Database Administrator Associate (DP-300)  
-- MongoDB Certified DBA  
+- **Database Migration Utility** – Assisted in migrating on-prem SQL Server databases to Azure Managed instances. 
 
 ---
 
