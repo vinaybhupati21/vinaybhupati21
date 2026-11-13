@@ -48,8 +48,4 @@ I am a Database Administrator specializing in relational and NoSQL database syst
 ---
 
 
----
-
-## Repository Structure
-
 
